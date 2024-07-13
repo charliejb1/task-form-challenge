@@ -19,6 +19,16 @@ Making Cards droppbable to other lanes.
 
  3- Open with VS Code - code .
 
+ ## Screenshots
+ Adding the user inputs:
+<img width="1390" alt="Screenshot 2024-07-13 at 3 02 55 PM" src="https://github.com/user-attachments/assets/9ab53dad-d474-4877-852c-5c21525e4ae2">
+Cards displayed with different colors based on due date:
+<img width="1388" alt="Screenshot 2024-07-13 at 3 03 45 PM" src="https://github.com/user-attachments/assets/6b4b29ff-fcb2-41ac-94dd-5aab0d3e2660">
+After deletion of cards:
+<img width="1215" alt="Screenshot 2024-07-13 at 3 05 09 PM" src="https://github.com/user-attachments/assets/feceb0cb-64de-4220-a7a4-25590b0f43ef">
+
+ 
+
  ## Contributions: 
 
  Tutor Assistance - Savien Love
